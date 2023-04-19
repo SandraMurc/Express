@@ -1,0 +1,29 @@
+{
+  "name": "api-falsa",
+  "version": "1.0.0",
+  "description": "tarea",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PilarGonzalezFarret/Api-Falsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PilarGonzalezFarret/Api-Falsa/issues"
+  },
+  "homepage": "https://github.com/PilarGonzalezFarret/Api-Falsa#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "faker": "^6.6.6",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
